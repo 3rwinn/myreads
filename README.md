@@ -1,6 +1,6 @@
 # MyReads Project
 
-Simple book tracking app built in React in the Udacity's React Nanodegree Program
+Simple book tracking app built with React in the Udacity's React Nanodegree Program
 
 ## TL;DR
 
